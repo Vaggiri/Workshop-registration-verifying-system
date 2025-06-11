@@ -11,7 +11,7 @@ A smart participant validation system using **ESP32-CAM** and **Google Sheets** 
 
 ## 📸 Screenshots
 
-> Add these screenshot images inside a `/screenshots` folder in your repo.
+
 
 
 
